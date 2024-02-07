@@ -17,7 +17,7 @@ Desafio da Next Level Week 2024, promovido pela Rocketseat para ensino de tecnol
 <br>
 
 <p align="center">
-  <img alt="projeto Fotoblog" src="./assets/project-cover.jpg" width="100%">
+  <img alt="projeto Quiz" src="./assets/project-cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
